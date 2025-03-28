@@ -88,10 +88,10 @@ model.add(Embedding(vocab_size, 100, input_length=max_length))
 model.add(LSTM(128))
 model.add(Dense(1, activation='sigmoid'))
 📈 Results
-Model	Accuracy	F1-Score	Precision	Recall
-Logistic Reg	0.85	0.84	0.83	0.85
-LSTM	0.88	0.87	0.86	0.88
-![Confusion Matrix Example](images/confusion[Add caption]*
+              Model	Accuracy	F1-Score	Precision	Recall
+Logistic Reg	    0.85	        0.84	    0.83	   0.85
+LSTM	            0.88	        0.87	    0.86	   0.88
+!*
 
 🚀 Getting Started
 Clone repository:
