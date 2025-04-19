@@ -98,6 +98,7 @@ Clone repository:
 
 bash
 git clone https://github.com/NikhilChoudhari9916/NLP_data_science_project.git
+
 Install requirements:
 
 bash
